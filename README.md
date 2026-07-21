@@ -9,7 +9,7 @@
 - **Телеграмм** https://t.me/vorona_id
 
 ## Резюме:
-[https://kazan.hh.ru/resume/61f6cd5fff0f4213560039ed1f513247525978?print=true]
+https://kazan.hh.ru/resume/61f6cd5fff0f4213560039ed1f513247525978?print=true
 
 ## 🌱 Цели
 - Работать над реальными проектами в области компьютерного зрения.
